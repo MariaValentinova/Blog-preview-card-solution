@@ -24,13 +24,13 @@ Users should be able to:
 
 ![Screenshot 1](/screenshots/Captura%20web_24-12-2023_103858_127.0.0.1.jpg)
 
-![Screenshot 2](/screenshots/Captura web_24-12-2023_104249_127.0.0.1.jpg)
+![Screenshot 2](/screenshots/web_24-12-2023_104249_127.0.0.1.jpg)
 
 
 ### Links
 
 - Solution URL: (https://github.com/MariaValentinova/Blog-preview-card-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([https://your-live-site-url.com](https://mariavalentinova.github.io/Blog-preview-card-solution/))
 
 ## My process
 
